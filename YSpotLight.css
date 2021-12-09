@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'YSpotLight';
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/kt/YSpotLight.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/kt/YSpotLight.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/kt/YSpotLight.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/kt/YSpotLight.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/kt/YSpotLight.ttf') format("truetype");
+    font-display: swap;
+} 
